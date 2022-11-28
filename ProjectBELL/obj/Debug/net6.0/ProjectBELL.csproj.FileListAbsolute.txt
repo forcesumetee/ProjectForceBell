@@ -1,0 +1,15 @@
+C:\Users\Force\Desktop\ProjectBELL\bin\Debug\net6.0\ProjectBELL.exe
+C:\Users\Force\Desktop\ProjectBELL\bin\Debug\net6.0\ProjectBELL.deps.json
+C:\Users\Force\Desktop\ProjectBELL\bin\Debug\net6.0\ProjectBELL.runtimeconfig.json
+C:\Users\Force\Desktop\ProjectBELL\bin\Debug\net6.0\ProjectBELL.dll
+C:\Users\Force\Desktop\ProjectBELL\bin\Debug\net6.0\ProjectBELL.pdb
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\ProjectBELL.csproj.AssemblyReference.cache
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\ProjectBELL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\ProjectBELL.AssemblyInfoInputs.cache
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\ProjectBELL.AssemblyInfo.cs
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\ProjectBELL.csproj.CoreCompileInputs.cache
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\ProjectBELL.dll
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\refint\ProjectBELL.dll
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\ProjectBELL.pdb
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\ProjectBELL.genruntimeconfig.cache
+C:\Users\Force\Desktop\ProjectBELL\obj\Debug\net6.0\ref\ProjectBELL.dll
